@@ -9,6 +9,7 @@ namespace VSTSBuildBadge.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.Fail();
         }
     }
 }
